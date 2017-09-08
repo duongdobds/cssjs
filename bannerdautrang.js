@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/VX5v4U' target='_blank'><img src='http://24hdautu.com/wp-content/uploads/2017/02/untitled-1.jpg' width='500px'/><br/>Nhà đất đầu tư Sài Gòn</a>. Liên hệ: 0918764888 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/VX5v4U' target='_blank'><img src='https://1.bp.blogspot.com/-Fb4OvC4mw3U/WbKs63fgbhI/AAAAAAAAAq0/6J4MFX9IrtcwNUvHda05npPw-CSd636iQCLcBGAs/s1600/banner_1.jpg' width='500px'/><br/>Nhà đất đầu tư Sài Gòn</a>. Liên hệ: 0918.764.888 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
