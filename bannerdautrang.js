@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/VX5v4U' target='_blank'><img src='https://1.bp.blogspot.com/-Fb4OvC4mw3U/WbKs63fgbhI/AAAAAAAAAq0/6J4MFX9IrtcwNUvHda05npPw-CSd636iQCLcBGAs/s1600/banner_1.jpg' width='500px'/><br/>Nhà đất đầu tư Sài Gòn</a>. Liên hệ: 0918.764.888 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/VX5v4U' target='_blank'><img src='https://3.bp.blogspot.com/-OeWDFrEo4v8/WbKvWT14LJI/AAAAAAAAArA/YcrMLMgSA7QNh7-mL59hKWh03Scfam7JwCLcBGAs/s1600/Banner-1.png' width='500px'/><br/>Nhà đất đầu tư Sài Gòn</a>. Liên hệ: 0918.764.888 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
